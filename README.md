@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GBhoomika
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Final Year B.Tech
+- 🌱 I’m currently learning Web Designing
 - 💞️ I’m looking to collaborate on Web Designing
 - 📫 How to reach me bhoomika0314@gmail.com
 
